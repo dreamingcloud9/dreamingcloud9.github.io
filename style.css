@@ -1,0 +1,14 @@
+html {
+	height: 100%;
+}
+body {
+	height: inherit;
+	background: url(startup.jpg) no-repeat center center fixed; 
+    background-size: cover;
+}
+.container {
+	height: inherit;
+}
+.row {
+	height: inherit;
+}
